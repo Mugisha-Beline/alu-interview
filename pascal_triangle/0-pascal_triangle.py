@@ -1,4 +1,4 @@
-#!usr/bin/python3
+#!/usr/bin/python3
 """pascal's triangle function """
 def pascal_triangle(n)
 """ if n is equal to zero """
